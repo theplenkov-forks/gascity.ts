@@ -42,7 +42,7 @@
   "dependencies": {
     "axios": "^1.18.0",
     "form-data": "^4.0.6",
-    "zod": "^3.25.76"
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "unrun": "^0.3.1"
